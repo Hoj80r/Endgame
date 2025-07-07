@@ -33,7 +33,7 @@ Instead of the usual stick figure, each wrong guess eliminates a programming lan
 To run this project locally:
 
 1. Clone the repository:  
-  `git clone https://github.com/yourusername/Endgame.git`
+  `git clone https://github.com/Hoj80r/Endgame.git`
 
 2. Navigate to the project folder:  
    `cd Endgame`
